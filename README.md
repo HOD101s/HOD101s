@@ -15,10 +15,10 @@ I'm Manas Acharya a Machine Learning Data Science Engineer passionate with a kee
 
 ### Let's Connect 🤝🤘
 <!-- <p align="center"> -->
-<a href="mailto:manasacharya.101@gmail.com" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="manas-acharya" height="20" width="20" /></a>
-<a href="http://manasacharya.ml" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2301/2301129.svg" alt="manas-acharya" height="20" width="20" /></a>
-<a href="https://github.com/HOD101s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hod101s" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/manas-acharya/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="manas-acharya" height="20" width="20" /></a>
-<a href="https://www.kaggle.com/hod101s" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="manas-acharya" height="20" width="20" /></a>
+<a href="mailto:manasacharya.101@gmail.com" target="_blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="manas-acharya" height="20" width="20" /></a>
+<a href="http://manasacharya.ml" target="_blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/2301/2301129.svg" alt="manas-acharya" height="20" width="20" /></a>
+<a href="https://github.com/HOD101s" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hod101s" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/manas-acharya/" target="_blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="manas-acharya" height="20" width="20" /></a>
+<a href="https://www.kaggle.com/hod101s" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="manas-acharya" height="20" width="20" /></a>
 <!--</p->->
 
