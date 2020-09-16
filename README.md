@@ -1,6 +1,6 @@
 ## Hey there I'm [Manas](http://manasacharya.ml) 👋 !
 
-I'm Manas Acharya a Machine Learning Data Science Engineer with a keen interest in Computer Vision! Experienced in Data Analystics, Machine Learning and Fullstack Development, looking out for challenging opportunities!
+I'm Manas Acharya a Machine Learning Data Science Engineer with a keen interest in Computer Vision! Experienced in Data Analytics, Machine Learning and Fullstack Development, looking out for challenging opportunities!
 
 - 🤖 Machine Learning Data Science Engineer
 - 🎯 Working on Computer Vision Research Projects
