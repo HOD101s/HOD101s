@@ -12,7 +12,8 @@ I'm Manas Acharya a Machine Learning Data Science Engineer with a keen interest 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hod101s&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="Manas Acharya" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hod101s&theme=tokyonight&layout=compact" alt="Manas Acharya" />
 </p>
-<p align="center"><b>Let's Connect</b> 🤝🤘<br>
+
+#### Let's Connect 🤝🤘
 <a href="mailto:manasacharya.101@gmail.com" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="manas-acharya" height="20" width="20" /></a>
 <a href="http://manasacharya.ml" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/2301/2301129.svg" alt="manas-acharya" height="20" width="20" /></a>
 <a href="https://github.com/HOD101s" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hod101s" height="20" width="20" /></a>
