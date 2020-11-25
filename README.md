@@ -2,7 +2,7 @@
 
 I'm Manas Acharya a Machine Learning Data Science Engineer with a keen interest in Computer Vision! Experienced in Data Analytics, Machine Learning and Fullstack Development, looking out for challenging opportunities!
 
-- 🤖 Machine Learning Data Science Engineer
+- 🤖 Machine Learning Data Science Enthusiast
 - 🎯 Working on Computer Vision Research Projects
 - 👯 Looking to collaborate on Cutting-Edge AI Technologies
 - 🐍 Writing Python Automation Scripts is my Super Power
