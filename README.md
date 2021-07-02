@@ -1,8 +1,7 @@
 ## Hey there I'm [Manas](http://manasacharya.ml) 👋 !
 
-I'm Manas Acharya a Machine Learning Data Science Enthusiast with a keen interest in Computer Vision! Experienced in Data Analytics, Machine Learning and Fullstack Development, looking out for challenging opportunities!
+I'm Manas Acharya, a Cloud and Machine Learning Enthusiast with a keen interest in Computer Vision! Experienced in Full Stack Dev, Cloud, Data Analytics and Machine Learning, looking out for challenging opportunities!
 
-- 🤖 Machine Learning Data Science Enthusiast
 - 🎯 Working on Serverless and Cloud based Projects
 - 👯 Looking to collaborate on Full Stack Data Science Projects
 - 🐍 Writing Python Automation Scripts is my Super Power
