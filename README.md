@@ -2,8 +2,7 @@
 
 I'm Manas Acharya, a Cloud and Machine Learning Enthusiast with a keen interest in Computer Vision! Experienced in Full Stack Dev, Cloud, Data Analytics and Machine Learning, looking out for challenging opportunities!
 
-- 🎯 Working on Serverless and Cloud based Projects
-- 👯 Looking to collaborate on Full Stack Data Science Projects
+- 🎯 Working on Data Engineering and Cloud based Projects
 - 🐍 Writing Python Automation Scripts is my Super Power
 
 <p align="center"><b>Coz Stats are</b> 😍</p>
