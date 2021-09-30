@@ -13,9 +13,7 @@ I'm Manas Acharya, a Cloud and Machine Learning Enthusiast with a keen interest 
 </p>
 
 #### Let's Connect 🤝🤘
-<a href="mailto:manasacharya.101@gmail.com" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="manas-acharya" height="20" width="20" /></a>
-<a href="http://manasacharya.ml" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/2301/2301129.svg" alt="manas-acharya" height="20" width="20" /></a>
-<a href="https://github.com/HOD101s" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hod101s" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/manas-acharya/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="manas-acharya" height="20" width="20"/></a>
-<a href="https://www.kaggle.com/hod101s" target="_blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="manas-acharya" height="20" width="20" /></a>
- </p>
+<a href="mailto:manasacharya.101@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/893/893257.png" alt="manas-acharya" height="20" width="20" /></a>
+<a href="https://hod101s.github.io/site/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/975/975645.png" alt="manas-acharya" height="20" width="20" /></a>
+<a href="https://github.com/HOD101s" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" alt="hod101s" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/manas-acharya/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="manas-acharya" height="20" width="20"/></a>
