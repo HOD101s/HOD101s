@@ -8,8 +8,6 @@ I'm Manas Acharya, a Cloud and Machine Learning Enthusiast with a keen interest 
 <p align="center"><b>Coz Stats are</b> 😍</p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hod101s&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="Manas Acharya" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hod101s&theme=tokyonight&layout=compact" alt="Manas Acharya" />
-</p>
 
 #### Let's Connect 🤝🤘
 <a href="mailto:manasacharya.101@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/893/893257.png" alt="manas-acharya" height="20" width="20" /></a>
