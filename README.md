@@ -1,6 +1,6 @@
 ## Hey there I'm [Manas](http://manasacharya.ml) 👋 !
 
-I'm Manas Acharya, a Data Engineering and Cloud Computing enthusiast with a keen interest in building building Distributed and Scalable Systems! Experienced in Full Stack Dev, Cloud, Data Analytics and Machine Learning, looking out for challenging opportunities!
+I'm Manas Acharya, a Data Engineering and Cloud Computing enthusiast with a keen interest in building Distributed and Scalable Systems! Experienced in Full Stack Dev, Cloud, Data Analytics and Machine Learning, looking out for challenging opportunities!
 
 - 🎯 Working on Data Engineering, Analytics and Cloud based Projects
 - 🐍 Writing Python Automation Scripts is my Super Power
