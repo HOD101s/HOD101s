@@ -1,4 +1,4 @@
-## Hey there I'm [Manas](http://manasacharya.ml) 👋 !
+## Hey there I'm Manas👋 !
 
 I'm Manas Acharya, a Data Engineering and Cloud Computing enthusiast with a keen interest in building Distributed and Scalable Systems! Experienced in Full Stack Dev, Cloud, Data Analytics and Machine Learning, looking out for challenging opportunities!
 
